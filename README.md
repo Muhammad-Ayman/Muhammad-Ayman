@@ -8,7 +8,11 @@
 - **Duration:** 2021 - present
 
 ## Skills
-- **Programming Languages:** C/C++, Python, PostgreSQL, JavaScript
+- **Programming Languages:**
+![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 - **Machine Learning:** Breast Tumor Classification, Counterfeit Currency Detection, Fruit Detection
 - **Tools & Technologies:** Manim, TensorFlow
 - **Courses:** CS50, Lynda C&C++, Data Science with Python, and more
@@ -43,8 +47,7 @@ Produced compelling math and chemistry (atomic structure) videos using Manim in 
 
 ## Let's Connect!
 - 📧 Email: I.MuhammadAyman@gmail.com
-- 📱 Phone: 01001579573
-
-Feel free to explore my repositories and connect with me on [LinkedIn](#)!
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ayman-a594841b2/)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/imuhammadayman)
 
 Happy coding! 🚀
