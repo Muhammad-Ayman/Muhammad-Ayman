@@ -14,7 +14,7 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 - **Machine Learning:** Breast Tumor Classification, Counterfeit Currency Detection, Fruit Detection
-- **Tools & Technologies:** Manim, TensorFlow
+- **Tools & Technologies:** Manim, TensorFlow, Scikit-learn, Pandas, Numpy, Seaborn and more
 - **Courses:** CS50, Lynda C&C++, Data Science with Python, and more
 
 ## Experience
