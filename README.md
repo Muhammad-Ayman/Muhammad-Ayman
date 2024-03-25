@@ -51,3 +51,11 @@ Produced compelling math and chemistry (atomic structure) videos using Manim in 
 - [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/imuhammadayman)
 
 Happy coding! 🚀
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
