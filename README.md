@@ -1,61 +1,30 @@
-# Muhammad Ayman Mahmoud
+### Hi there, I'm Muhammad Ayman! 👋
 
-👋 Hello there! I'm Muhammad Ayman Mahmoud, a passionate engineering student with a focus on Communication & Information. Welcome to my GitHub profile!
+🚀 **Backend Developer | Machine Learning Enthusiast | C++ & JavaScript Developer**
 
-## Education
-- **Faculty:** Faculty of Engineering, Helwan University
-- **Department:** Communication & Information
-- **Duration:** 2021 - present
+---
 
-## Skills
-- **Programming Languages:**
-![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
-- **Machine Learning:** Breast Tumor Classification, Counterfeit Currency Detection, Fruit Detection
-- **Tools & Technologies:** Manim, TensorFlow, Scikit-learn, Pandas, Numpy, Seaborn and more
-- **Courses:** CS50, Lynda C&C++, Data Science with Python, and more
+### 💡 About Me:
+- 🔧 Backend Developer with experience in **NestJS, Prisma, PostgreSQL, and AWS**
+- 🤖 Passionate about **Machine Learning** and **AI-driven applications**
+- ⚡ Experienced in **C++, Python, JavaScript, and SQL**
+- 🔍 Strong interest in **gRPC**, **high-performance computing**, and **software optimization**
+- 🌍 Open to new challenges in **high-tech companies**
 
-## Experience
+---
 
-### Breast Tumor Classification (BioVerse Hackathon)
-Developed a machine learning model for breast tumor classification using real data from Baheya. Achieved 7th place in the BioVerse Hackathon, showcasing effective model performance in real-world medical applications.
+### 📌 My Tech Stack:
+**Backend:** NestJS, Node.js, Prisma, PostgreSQL, gRPC  
+**Frontend:** Next.js, React, Tailwind CSS  
+**ML & AI:** TensorFlow, PyTorch, Scikit-learn  
+**DevOps:** AWS, Docker, CI/CD  
+**Programming Languages:** C++, Python, JavaScript, SQL  
 
-### Freelance Manim
-Produced compelling math and chemistry (atomic structure) videos using Manim in Python as a freelance animator. Specialized in translating complex concepts into visually engaging educational content.
+---
 
-### Technical Support Volunteer at IEEE RAS HSB (Sep. 2021 – Sep. 2022)
-- Developed a counterfeit currency detection system using deep learning.
-- Created a mobile app using the accelerometer to remotely control the movement of RC cars.
-- Participated in the YLF Leaders league competition.
-- Facilitated sessions on machine learning, covering topics such as linear regression, logistic regression, and support vector machine.
 
-## Courses
-- CS50
-- Lynda C&C++
-- Data Science with Python
-- Coursera Algorithmic Toolbox
-- FWD-Udacity Data Analysis
-- FWD-Udacity Web Development
-- Udacity Intro to Machine Learning using TensorFlow
-- Coursera Andrew Ng Machine Learning (Supervised Learning)
-- FWD-Udacity Embedded Systems Professional Track
-- Datacamp Data Analysis with Python
-- Datacamp Data Science with Python
-- Datacamp SQL Fundamentals
-
-## Let's Connect!
+### 📫 Connect With Me:
+- 🔗 LinkedIn: [MuhammadAyman](https://www.linkedin.com/in/imuhammadayman/)
 - 📧 Email: I.MuhammadAyman@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ayman-a594841b2/)
-- [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/imuhammadayman)
-
-Happy coding! 🚀
 
 
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"  />
-
-###
