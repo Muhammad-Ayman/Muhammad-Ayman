@@ -18,10 +18,6 @@ I'm an enthusiastic engineering student with a growing interest in full-stack we
 
 ## GitHub Stats
 
-[![Muhammad Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ayman&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ayman&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ayman&theme=radical)](https://git.io/streak-stats)
 
 
